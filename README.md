@@ -4,7 +4,7 @@
 
 <h1 style="bold">Tech Stack</h1>
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,html,css,tailwind,nodejs,express,mongodb,git,github)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,html,css,tailwind,nodejs,express,mongodb,git,github,graphql)](https://skills.thijs.gg)
 
 <h3 style="bold">Future-addups</h3>
 
