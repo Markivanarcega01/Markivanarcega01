@@ -8,7 +8,7 @@
 
 <h3 style="bold">Future-addups</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=nextjs,docker,kubernetes,nuxtjs,vue,postgresql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nextjs,docker,kubernetes,nuxtjs,vue,postgresql)](https://skillicons.dev)
 <!---
 Markivanarcega01/Markivanarcega01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
