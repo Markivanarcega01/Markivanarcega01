@@ -2,6 +2,8 @@
 - 👀 I’m interested in Web Development 
 - 📫 Reach me via twitter @Markivan01
 
+Project Staff (July 2024 - December 2024) at University of the Philippines Open University (UPOU)
+
 <h1 style="bold">Tech Stack</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=js,php,python,nodejs,nestjs,express,laravel,react,nextjs,tailwind,mongodb,mysql,git,github,graphql,ts,html,css&perline=3)](https://skills.thijs.gg)
@@ -13,4 +15,3 @@
 Markivanarcega01/Markivanarcega01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
