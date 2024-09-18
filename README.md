@@ -3,6 +3,7 @@
 - 📫 Reach me via twitter @Markivan01
 
 Project Staff (July 2024 - December 2024) at University of the Philippines Open University (UPOU)
+ - Developed a web extension that identifies gender-bias words
 
 <h1 style="bold">Tech Stack</h1>
 
