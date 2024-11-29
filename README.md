@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ivan
 - 👀 I’m interested in Web Development 
 - 📫 Reach me via twitter @Markivan01
+- Facebook : https://www.facebook.com/markivan01
 
 Project Staff (July 2024 - December 2024) at University of the Philippines Open University (UPOU)
  - Developed a web extension that identifies gender-bias words
