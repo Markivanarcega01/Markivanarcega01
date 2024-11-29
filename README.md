@@ -4,6 +4,7 @@
 
 Project Staff (July 2024 - December 2024) at University of the Philippines Open University (UPOU)
  - Developed a web extension that identifies gender-bias words
+ - Developed a webpage that takes a .docx file and highlight the gender-bias words
 
 <h1 style="bold">Tech Stack</h1>
 
