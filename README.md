@@ -9,11 +9,11 @@ Project Staff (July 2024 - June 2025) at University of the Philippines Open Univ
 
 <h1 style="bold">Tech Stack</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,php,python,nodejs,nestjs,express,laravel,react,nextjs,tailwind,mongodb,mysql,git,github,graphql,ts,html,css&perline=3)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=js,php,python,cs,nodejs,nestjs,express,laravel,react,nextjs,tailwind,mongodb,mysql,git,github,graphql,ts,html,css&perline=3)](https://skills.thijs.gg)
 
 <h3 style="bold">Future-addups</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,vim,docker,kubernetes,nuxtjs,vue,postgresql)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=cpp,vim,docker,kubernetes,nuxtjs,vue,postgresql)](https://skills.thijs.gg)
 <!---
 Markivanarcega01/Markivanarcega01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
