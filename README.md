@@ -7,7 +7,7 @@ Project Staff (July 2024 - June 2025) at University of the Philippines Open Univ
  - Developed a web extension that identifies gender-bias words
  - Developed a website that takes a .docx file and highlight the gender-bias words
 
-<h1 style="bold">Tech Stack</h1>man
+<h1 style="bold">Tech Stack</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=js,php,python,cs&perline=4)](https://skills.thijs.gg)
 
