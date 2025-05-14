@@ -5,9 +5,9 @@
 
 Project Staff (July 2024 - June 2025) at University of the Philippines Open University (UPOU)
  - Developed a web extension that identifies gender-bias words
- - Developed a webpage that takes a .docx file and highlight the gender-bias words
+ - Developed a website that takes a .docx file and highlight the gender-bias words
 
-<h1 style="bold">Tech Stack</h1>
+<h1 style="bold">Tech Stack</h1>man
 
 [![My Skills](https://skillicons.dev/icons?i=js,php,python,cs&perline=4)](https://skills.thijs.gg)
 
@@ -15,7 +15,7 @@ Project Staff (July 2024 - June 2025) at University of the Philippines Open Univ
 
 <h3 style="bold">Future-addups</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,vim,docker,kubernetes,nuxtjs,vue,postgresql)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=cpp,docker,kubernetes,nuxtjs,vue,postgresql)](https://skills.thijs.gg)
 <!---
 Markivanarcega01/Markivanarcega01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
