@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development 
 - Facebook : https://www.facebook.com/markivan01
 - Instagram : https://www.instagram.com/_ivanns
+- LinkedIn : https://www.linkedin.com/in/mark-ivan-arcega-52359627b
 
 <h1 style="bold">Tech Stack</h1>
 
